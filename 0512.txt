@@ -1,0 +1,8 @@
+Basis of ROR :
+-------------
+1. Pass variable to ruby script and display
+2. Ask for user to keyboard entry and display
+3. What's the difference between ARGV and gets.chomp?
+4.Latest ruby version
+5.Latest stable ruby version
+6.case program
