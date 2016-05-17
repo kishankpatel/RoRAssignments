@@ -1,0 +1,10 @@
+1>
+Input a string from user and find the length of string and found the ASCII value of each character of the string.
+2>
+Create a module and define all methods (addition, subtraction, multiplication and division) and include the module in another file and call all those method.
+4>
+Input a date from user and find the day before 5 days.
+5>
+Input a text and find total number of vowels and total of each vowels.
+6>
+Create an array and add the values to it then find the maximum and minimum value of that array.
