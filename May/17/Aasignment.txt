@@ -1,0 +1,7 @@
+>> Input two date and find :
+   Q. How many number of days with in the range?
+   Q. Print all the dates in between range.
+   Q. Check how many weekends present in the range?
+>> Only show first letters of string of each word
+>> Check if a value exists in an array
+>> Create an average from an array
