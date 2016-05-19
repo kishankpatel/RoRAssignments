@@ -7,7 +7,7 @@ class Find_Date
 		time = Time.new
 		puts "Enter date (DD/MM/YEAR)"
 		dt = gets.chomp
-		@sel_date = Date::strptime(dt, "%d/%m/%Y") # set the entered date to avariable
+		@sel_date = Date::strptime(dt, "%d/%m/%Y") # set the entered date to a variable
 		return @sel_date # return the entered date
 	end
 	def show_date # define the show_date to display the date
